@@ -1,0 +1,72 @@
+# 屏蔽万兴软件联网验证
+127.0.0.1 cbs.wondershare.com
+127.0.0.1 www.wondershare.net
+127.0.0.1 www.wondershare.com
+127.0.0.1 support.wondershare.net
+127.0.0.1 www.cbs.wondershare.com
+127.0.0.1 platform.wondershare.com
+ 
+# 屏蔽corel联网验证
+127.0.0.1 apps.corel.com
+127.0.0.1 mc.corel.com
+127.0.0.1 origin-mc.corel.com
+127.0.0.1 ipm.corel.com
+127.0.0.1 iws.corel.com
+
+# 屏蔽广联达CAD快速看图联网验证
+127.0.0.1 backup.lumion3d.net
+127.0.0.1 license.lumion3d.net
+127.0.0.1 backup.lumion3d.com
+127.0.0.1 activate.lumion3d.com
+127.0.0.1 license.lumiontech.net
+127.0.0.1 upload.lumion3d.net
+127.0.0.1 upload.lumion3d.com
+127.0.0.1  cad.glodon.com 
+
+# 屏蔽CAD迷你看图联网验证
+127.0.0.1 app.aec188.com
+
+# 屏蔽万兴软件联网验证
+127.0.0.1 cbs.wondershare.com
+127.0.0.1 www.cbs.wondershare.com
+127.0.0.1 platform.wondershare.com
+127.0.0.1 www.wondershare.com
+
+# 屏蔽bandicam联网验证
+127.0.0.1 bandicam.com
+127.0.0.1 ssl.bandisoft.com
+
+# 屏蔽aimersoft视频转换软件联网验证
+127.0.0.1 platform.aimersoft.com
+
+# 屏蔽nero软件联网验证
+127.0.0.1 nero.com
+127.0.0.1 www.nero.com
+127.0.0.1 www2.nero.com
+127.0.0.1 wwww.nero.com
+127.0.0.1 install.nero.com
+127.0.0.1 my.nero.com  
+127.0.0.1 secure.nero.com/us/secure.asp 
+127.0.0.1 activation@nero.com 
+127.0.0.1 registernero.com
+127.0.0.1 www.registernero.com 
+127.0.0.1 legal@nero.com 
+127.0.0.1 support.nero.com
+127.0.0.1 iam.nero.com
+127.0.0.1 i2am.nero.com
+127.0.0.1 neroknowhow.com
+127.0.0.1 s3.neroknowhow.com
+
+# 屏蔽avast软件联网验证
+127.0.0.1  www.avast.com
+127.0.0.1  75.126.120.203
+127.0.0.1  www.ns2.avast.com
+127.0.0.1  www.pns.avast.com
+127.0.0.1  46.4.58.71
+127.0.0.1  46.4.62.150
+127.0.0.1  46.4.28.80
+
+#去除Flash区域限制
+0.0.0.0 geo2.adobe.com
+0.0.0.0 flash.cn
+0.0.0.0 www.flash.cn
