@@ -4,32 +4,3 @@
 # Github Start
 192.30.253.118	gist.github.com
 151.101.72.249	global-ssl.fastly.net
-
-# OneDrive Start
-204.79.197.213	api.onedrive.com
-2.17.58.51	api.onedrive.live.com
-204.79.197.217	onedrive.live.com
-204.79.197.217	skyweb.skyprod.akadns.net
-204.79.197.217	webedgegeo.skyprod.akadns.net
-104.44.88.28	skyapi.onedrive.live.com
-13.107.42.11	outlook.live.com
-
-# Psiphon Start
-54.239.168.4	psiphon3.com
-54.239.168.4	www.psiphon3.com
-104.20.39.14	psiphon.ca
-104.20.39.14	www.psiphon.ca
-
-# Resilio Sync Start
-13.32.231.218	getsync.com
-13.32.231.218	config.getsync.com
-13.32.231.218	download-cdn.getsync.com
-13.32.231.218	update.getsync.com
-13.32.231.218	www.getsync.com
-13.32.231.218	config.resilio.com
-13.32.231.218	www.resilio.com
-54.82.227.39	new-bench.resilio.com
-
-# Smartdnsproxy Start
-103.28.248.96	www.smartdnsproxy.com
-184.72.50.35	support.smartdnsproxy.com
