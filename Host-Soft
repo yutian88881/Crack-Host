@@ -76,3 +76,11 @@
 127.0.0.1     activation-v2.geo.kaspersky.com
 127.0.0.1     activation-v1.kaspersky.com
 127.0.0.1     activation-v1.geo.kaspersky.com
+
+# 屏蔽WPS联网验证
+127.0.0.1 info.wps.cn
+127.0.0.1 shuc-pc-hamlet.ksord.com
+127.0.0.1 ic.wps.cn
+127.0.0.1 dyn.wps.cn
+127.0.0.1 wdl1.cache.wps.cn
+127.0.0.1 snauth.wps.cn
