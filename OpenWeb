@@ -19,3 +19,8 @@
 36.27.212.81 mac.pcbeta.com
 36.27.212.81 cdn.pcbeta.img.inimc.com
 36.27.212.81 so.pcbeta.com
+
+# 访问卡巴斯基中国官网
+218.213.144.18  www.kaspersky.com.cn
+192.155.197.230 api.rollbar.com
+212.5.110.40       my.kaspersky.com
