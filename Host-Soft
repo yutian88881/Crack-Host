@@ -10,8 +10,65 @@
 127.0.0.1 apps.corel.com
 127.0.0.1 mc.corel.com
 127.0.0.1 origin-mc.corel.com
-127.0.0.1 ipm.corel.com
 127.0.0.1 iws.corel.com
+127.0.0.1 ipm.corel.com
+127.0.0.1  content.corel.com
+127.0.0.1  65.200.22.154
+127.0.0.1  65.200.22.99
+127.0.0.1  ipp.corel.com
+127.0.0.1  secure.ipp.corel.com
+127.0.0.1 www.corelstore.com
+127.0.0.1 edgesuite.net
+
+# 屏蔽Adobe软件联网验证
+127.0.0.1 activate.adobe.com
+127.0.0.1 practivate.adobe.com
+127.0.0.1 lmlicenses.wip4.adobe.com
+127.0.0.1 lm.licenses.adobe.com
+127.0.0.1 na1r.services.adobe.com
+127.0.0.1 hlrcv.stage.adobe.com
+127.0.0.1 3dns.adobe.com
+127.0.0.1 3dns-1.adobe.com
+127.0.0.1 3dns-4.adobe.com
+127.0.0.1 3dns-5.adobe.com
+127.0.0.1 activate.adobe.com
+127.0.0.1 activate.wip1.adobe.com
+127.0.0.1 activate.wip2.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 activate.wip4.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-1.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 adobe-dns-4.adobe.com
+127.0.0.1 adobeereg.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 ereg.wip.adobe.com
+127.0.0.1 ereg.wip1.adobe.com
+127.0.0.1 ereg.wip2.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 ereg.wip4.adobe.com
+127.0.0.1 hl2rcv.adobe.com
+127.0.0.1 wip.adobe.com
+127.0.0.1 wip1.adobe.com
+127.0.0.1 wip2.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 wip4.adobe.com
+127.0.0.1 crl.versign.net
+127.0.0.1 ood.opsource.net
+127.0.0.1 activate.adobe.com
+127.0.0.1 ereg.adobe.com
+127.0.0.1 activate.wip3.adobe.com
+127.0.0.1 wip3.adobe.com
+127.0.0.1 3dns-3.adobe.com
+127.0.0.1 3dns-2.adobe.com
+127.0.0.1 adobe-dns.adobe.com
+127.0.0.1 adobe-dns-2.adobe.com
+127.0.0.1 adobe-dns-3.adobe.com
+127.0.0.1 ereg.wip3.adobe.com
+127.0.0.1 activate-sea.adobe.com
+127.0.0.1 wwis-dubc1-vip60.adobe.com
+127.0.0.1 activate-sjc0.adobe.com
 
 # 屏蔽广联达CAD快速看图联网验证
 127.0.0.1 backup.lumion3d.net
@@ -25,12 +82,6 @@
 
 # 屏蔽CAD迷你看图联网验证
 127.0.0.1 app.aec188.com
-
-# 屏蔽万兴软件联网验证
-127.0.0.1 cbs.wondershare.com
-127.0.0.1 www.cbs.wondershare.com
-127.0.0.1 platform.wondershare.com
-127.0.0.1 www.wondershare.com
 
 # 屏蔽bandicam联网验证
 127.0.0.1 bandicam.com
@@ -84,3 +135,25 @@
 127.0.0.1 dyn.wps.cn
 127.0.0.1 wdl1.cache.wps.cn
 127.0.0.1 snauth.wps.cn
+
+# 屏蔽威力导演联网验证
+127.0.0.1 cap.cyberlink.com
+127.0.0.1 activation.cyberlink.com
+
+# 迅雷不再提示敏感资源
+127.0.0.1 hub5btmain.sandai.net
+127.0.0.1 hub5emu.sandai.net
+127.0.0.1 upgrade.xl9.xunlei.com
+
+# 屏蔽IDM联网验证
+0.0.0.0 internetdownloadmanager.com
+0.0.0.0 mirror.internetdownloadmanager.com
+0.0.0.0 mirror2.internetdownloadmanager.com
+0.0.0.0 mirror3.internetdownloadmanager.com
+0.0.0.0 secure.internetdownloadmanager.com
+0.0.0.0 www.internetdownloadmanager.com
+0.0.0.0 registeridm.com
+0.0.0.0 www.registeridm.com
+0.0.0.0 secure.registeridm.com
+0.0.0.0 tonec.com
+0.0.0.0 www.tonec.com
