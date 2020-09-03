@@ -122,12 +122,6 @@
 0.0.0.0 flash.cn
 0.0.0.0 www.flash.cn
 
-# 屏蔽卡巴斯基联网验证
-127.0.0.1     activation-v2.kaspersky.com
-127.0.0.1     activation-v2.geo.kaspersky.com
-127.0.0.1     activation-v1.kaspersky.com
-127.0.0.1     activation-v1.geo.kaspersky.com
-
 # 屏蔽WPS联网验证
 127.0.0.1 info.wps.cn
 127.0.0.1 shuc-pc-hamlet.ksord.com
