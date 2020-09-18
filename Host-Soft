@@ -151,3 +151,6 @@
 0.0.0.0 secure.registeridm.com
 0.0.0.0 tonec.com
 0.0.0.0 www.tonec.com
+
+# 屏蔽 Topaz Gigapixel AI 联网验证
+127.0.0.1 auth.topazlabs.com
