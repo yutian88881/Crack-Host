@@ -154,3 +154,6 @@
 
 # 屏蔽 Topaz Gigapixel AI 联网验证
 127.0.0.1 auth.topazlabs.com
+
+# 屏蔽傲梅软件联网验证
+127.0.0.1 www.aomeitech.com
