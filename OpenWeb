@@ -1,25 +1,33 @@
 # Pandownload 可用
 64.52.84.68 pandownload.com
 
-# GitHub Start
-52.74.223.119 github.com
-192.30.253.119 gist.github.com
-54.169.195.247 api.github.com
-185.199.111.153 assets-cdn.github.com
-151.101.76.133 raw.githubusercontent.com
-151.101.108.133 user-images.githubusercontent.com
-151.101.76.133 gist.githubusercontent.com
-151.101.76.133 cloud.githubusercontent.com
-151.101.76.133 camo.githubusercontent.com
-151.101.76.133 avatars0.githubusercontent.com
-151.101.76.133 avatars1.githubusercontent.com
-151.101.76.133 avatars2.githubusercontent.com
-151.101.76.133 avatars3.githubusercontent.com
-151.101.76.133 avatars4.githubusercontent.com
-151.101.76.133 avatars5.githubusercontent.com
-151.101.76.133 avatars6.githubusercontent.com
-151.101.76.133 avatars7.githubusercontent.com
-151.101.76.133 avatars8.githubusercontent.com
+# Github Start
+140.82.114.4        github.com
+140.82.121.3        gist.github.com
+140.82.121.6        api.github.com
+185.199.111.153   assets-cdn.github.com
+185.199.109.154   github.githubassets.com
+151.101.108.133   user-images.githubusercontent.com
+151.101.108.133   raw.githubusercontent.com
+151.101.108.133    gist.githubusercontent.com
+151.101.108.133    cloud.githubusercontent.com
+151.101.108.133    camo.githubusercontent.com
+151.101.108.133    avatars0.githubusercontent.com
+151.101.108.133    avatars1.githubusercontent.com
+151.101.108.133    avatars2.githubusercontent.com
+151.101.108.133    avatars3.githubusercontent.com
+151.101.108.133    avatars4.githubusercontent.com
+151.101.108.133    avatars5.githubusercontent.com
+151.101.108.133    avatars6.githubusercontent.com
+151.101.108.133    avatars7.githubusercontent.com
+151.101.108.133    avatars8.githubusercontent.com
+103.252.115.157    github.global.ssl.fastly.net
+52.216.99.181        s3.amazonaws.com
+52.216.108.163      github-cloud.s3.amazonaws.com
+52.217.37.196        vagrantcloud-files-production.s3.amazonaws.com
+
+# userstyles Start
+35.168.102.2       userstyles.org
 
 # 访问远景论坛
 36.27.212.81 pcbeta.com
@@ -40,3 +48,32 @@
 218.213.144.18  www.kaspersky.com.cn
 192.155.197.230 api.rollbar.com
 212.5.110.40       my.kaspersky.com
+
+# OneDrive Start
+204.79.197.213	api.onedrive.com
+2.17.58.51	api.onedrive.live.com
+204.79.197.217	onedrive.live.com
+204.79.197.217	skyweb.skyprod.akadns.net
+204.79.197.217	webedgegeo.skyprod.akadns.net
+104.44.88.28	skyapi.onedrive.live.com
+13.107.42.11	outlook.live.com
+
+# Psiphon Start
+54.239.168.4	psiphon3.com
+54.239.168.4	www.psiphon3.com
+104.20.39.14	psiphon.ca
+104.20.39.14	www.psiphon.ca
+
+# Resilio Sync Start
+13.32.231.218	getsync.com
+13.32.231.218	config.getsync.com
+13.32.231.218	download-cdn.getsync.com
+13.32.231.218	update.getsync.com
+13.32.231.218	www.getsync.com
+13.32.231.218	config.resilio.com
+13.32.231.218	www.resilio.com
+54.82.227.39	new-bench.resilio.com
+
+# Smartdnsproxy Start
+103.28.248.96	www.smartdnsproxy.com
+184.72.50.35	support.smartdnsproxy.com
