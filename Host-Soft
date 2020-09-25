@@ -129,6 +129,7 @@
 127.0.0.1 dyn.wps.cn
 127.0.0.1 wdl1.cache.wps.cn
 127.0.0.1 snauth.wps.cn
+127.0.0.1 cloudservice7.kingsoft-office-service.com
 
 # 屏蔽威力导演联网验证
 127.0.0.1 cap.cyberlink.com
