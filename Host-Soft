@@ -164,3 +164,11 @@
 
 # 屏蔽ACDSee联网验证
 127.0.0.1 acdid.acdsystems.com
+
+# 屏蔽Iobit联网验证
+127.0.0.1 idb.iobit.com
+127.0.0.1 asc55.iobit.com
+127.0.0.1 is360.iobit.com
+127.0.0.1 asc.iobit.com
+127.0.0.1 pf.iobit.com
+127.0.0.1 iunins.iobit.com
