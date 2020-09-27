@@ -158,3 +158,6 @@
 
 # 屏蔽傲梅软件联网验证
 127.0.0.1 www.aomeitech.com
+
+# 屏蔽ACDSee联网验证
+127.0.0.1 acdid.acdsystems.com
