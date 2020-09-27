@@ -19,6 +19,9 @@
 127.0.0.1  secure.ipp.corel.com
 127.0.0.1 www.corelstore.com
 127.0.0.1 edgesuite.net
+# 屏蔽Mindjet 联网验证
+0.0.0.0 www.mindjet.com
+0.0.0.0 mindjet.com
 
 # 屏蔽Adobe软件联网验证
 127.0.0.1 activate.adobe.com
